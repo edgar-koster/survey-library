@@ -56,6 +56,7 @@ function init() {
         type: "text",
         inputType: "email",
         title: "Text Email",
+        description: "Please enter you mail address <b>here</b>",
         placeHolder: "jon.snow@nightwatch.org",
         isRequired: true,
         validators: [
